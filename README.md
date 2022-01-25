@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## It's a start.
 
 You can use the [editor on GitHub](https://github.com/alutnopk/alutnopk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
